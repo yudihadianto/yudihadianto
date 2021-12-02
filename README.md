@@ -1,5 +1,7 @@
 ## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.unaux.com/) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yudihadianto&label=Views&color=blue&style=plastic" alt="yudihadianto" /> </p>
+
 <a href="https://twitter.com/Yudi__Hadianto">
   <img align="left" alt="Yudi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
