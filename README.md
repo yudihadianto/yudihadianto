@@ -14,9 +14,6 @@
 <a href="https://twitter.com/Yudi__Hadianto">
   <img align="left" alt="Yudi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/yudihadianto/">
-  <img align="left" alt="Yudi Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/yudihadianto">
   <img align="left" alt="Yudi Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
