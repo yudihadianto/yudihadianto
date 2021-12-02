@@ -1,3 +1,12 @@
+<div align="center">
+<p>
+<a href="https://github.com/yudihadianto">
+<img align="center" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47rkuopgm5eo7njh6ygw3x9srerma9an2613xmnuux&rid=giphy.gif&ct=g"/>
+</a>
+</p>
+<br>
+</div>
+
 ## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.unaux.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudihadianto&label=Views&color=blue&style=plastic" alt="yudihadianto" /> </p>
@@ -51,18 +60,10 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>    
 
-<div align="center">
-<p>
-<a href="https://github.com/yudihadianto">
-<img align="center" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47rkuopgm5eo7njh6ygw3x9srerma9an2613xmnuux&rid=giphy.gif&ct=g"/>
-</a>
-</p>
-<br>
-  
-</div>
-  
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+  
+<div align="left">
+
+### Ngoding Nepi Ka Nyeri Cangkeng Adalah Jalan Ninjaku ❤️
 
 </div>
