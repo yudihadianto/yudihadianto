@@ -1,7 +1,5 @@
 ## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.unaux.com/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yudihadianto&label=Views&color=blue&style=plastic" alt="yudihadianto" /> </p>
-
 <a href="https://twitter.com/Yudi__Hadianto">
   <img align="left" alt="Yudi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -28,14 +26,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working on [Macul.com](https://www.ipnu.or.id/wp-content/uploads/2016/11/0_macul_1.jpg)
+- 🌱 I’m currently learning more about Ngawelu and Ngarit.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UClInEXDtcB9Q8Bg0x9wDGfg).
+- 🤔 I’m looking for help with Ngarambet documentation.
+- 💬 Ask me about Laravel or any tech-related stuff.
+- 📫 How to reach me: [Twitter - @Yudi__Hadianto](https://twitter.com/Yudi__Hadianto) , [Youtube - Yudi Hadianto](https://www.youtube.com/channel/UClInEXDtcB9Q8Bg0x9wDGfg)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I spend almost 2 hours Cingogo on the toilet every day until Singsireumeun.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
