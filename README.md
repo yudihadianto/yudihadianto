@@ -35,8 +35,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours Cingogo on the toilet every day until Singsireumeun.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Twitter: Yudi Hadianto](https://img.shields.io/twitter/follow/yudihadianto?style=social)](https://twitter.com/Yudi__Hadianto)
+[![Linkedin: Yudi Hadianto](https://img.shields.io/badge/-yudihadianto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudihadianto/)](https://www.linkedin.com/in/yudihadianto/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
