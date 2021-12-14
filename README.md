@@ -7,7 +7,7 @@
 <br>
 </div>
 
-## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.unaux.com/) 👋
+## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudihadianto&label=Views&color=blue&style=plastic" alt="yudihadianto" /> </p>
 
@@ -46,7 +46,7 @@
 [![Twitter: Yudi Hadianto](https://img.shields.io/twitter/follow/yudihadianto?style=social)](https://twitter.com/Yudi__Hadianto)
 [![Linkedin: Yudi Hadianto](https://img.shields.io/badge/-yudihadianto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudihadianto/)](https://www.linkedin.com/in/yudihadianto/)
 [![GitHub Yudi Hadianto](https://img.shields.io/github/followers/yudihadianto?label=follow&style=social)](https://github.com/yudihadianto)
-[![website](https://img.shields.io/badge/My-Portfolio-2648ff?style=flat-square&logo=google-chrome)](http://yudihadianto.unaux.com/)
+[![website](https://img.shields.io/badge/My-Portfolio-2648ff?style=flat-square&logo=google-chrome)](http://yudihadianto.github.io/)
 
 
 **Languages and Tools:**  
