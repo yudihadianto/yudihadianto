@@ -62,5 +62,7 @@
 <div align="left">
 
 ### Ngoding Nepi Ka Nyeri Cangkeng Adalah Jalan Ninjaku ❤️
+  
+### Donate : https://saweria.co/yudihadianto ❤️
 
 </div>
